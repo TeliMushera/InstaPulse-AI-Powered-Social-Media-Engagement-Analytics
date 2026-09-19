@@ -209,14 +209,4 @@ The dashboard will be available at: `http://localhost:5173`
 
 ---
 
-## Future Scope
-
-- Add time-series forecasting for engagement trends
-- Include hashtag analysis
-- Add post scheduling recommendations
-- Use larger, real-world datasets
-- Implement more advanced models (XGBoost, LightGBM)
-
----
-
 *IBM SkillBuild Final Project — Teli Mushera*
