@@ -206,7 +206,3 @@ The dashboard will be available at: `http://localhost:5173`
 | Top Platform    | TikTok (41.83% avg engagement) |
 | Model Accuracy  | 71.4%        |
 | Best F1 Class   | High (0.84)  |
-
----
-
-*IBM SkillBuild Final Project — Teli Mushera*
